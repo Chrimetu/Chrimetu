@@ -116,7 +116,7 @@
 
 
 <!-- Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrimetu&show_icons=true&theme=radical)
 
 
 
@@ -124,7 +124,7 @@
 
 
 <!-- Award List -->
-![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Chrimetu&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
 
 
 
@@ -133,9 +133,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=BreCaspian&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BreCaspian&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BreCaspian&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chrimetu&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chrimetu&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrimetu&theme=tokyo-night" />
       </picture>
   </tr>
 </table>
@@ -144,14 +144,14 @@
 
 
 <!-- 3D Contribution -->
-![GitHub 3D Contribution](https://raw.githubusercontent.com/BreCaspian/BreCaspian/main/profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub 3D Contribution](https://raw.githubusercontent.com/Chrimetu/Chrimetu/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <!--
-**BreCaspian/BreCaspian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chrimetu/Chrimetu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreCaspian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrimetu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 profile-3d-contrib/profile-green-animate.svg
@@ -187,7 +187,7 @@ profile-3d-contrib/profile-gitblock.svg
 
 
 
-![](https://stats.justsong.cn/api/leetcode?username=Brecaspian&cn=true)  leetcode
+![](https://stats.justsong.cn/api/leetcode?username=Chrimetu&cn=true)  leetcode
 
 
 
